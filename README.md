@@ -8,7 +8,7 @@ A discord clone for possible inclusion in the new Two Pier's housing co-operativ
 
 ![Screenshot2](https://user-images.githubusercontent.com/119585058/269697436-894f03f7-c348-4fcd-bf58-beba7cff4ee4.png)
 
-![Screenshot3](https://user-images.githubusercontent.com/119585058/269724965-8a13fedc-159e-4877-8a02-9be38d8de858.png)
+![Screenshot3](https://user-images.githubusercontent.com/119585058/269727330-fa61cd31-5905-45fc-afa4-92e2e8897246.png)
 
 ![Screenshot3](https://user-images.githubusercontent.com/119585058/269698719-02003e0d-fb1e-4d9c-9002-240b0ff12c35.png)
 
