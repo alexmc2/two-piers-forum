@@ -107,8 +107,8 @@ export default function RegisterScreen({ activeDiv, setActiveDiv }) {
     <div
       className={
         activeDiv === 'reg'
-          ? 'w-[480px] regform:px-4 min-h-[500px] rounded-main bg-main-gray text-white p-8 active py-12'
-          : 'w-[480px] h-[550px] rounded-main bg-main-gray text-white p-8'
+          ? 'w-[480px] regform:px-4 min-h-[500px] rounded-main bg-main-gray text-white p-8 active py-12 mx-6'
+          : 'w-[480px] h-[550px] rounded-main bg-main-gray text-white p-8 mx-6'
       }
     >
       <form onSubmit={handleRegSubmit}>

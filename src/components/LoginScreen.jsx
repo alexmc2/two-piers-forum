@@ -51,8 +51,8 @@ export default function LoginScreen({
     <div
       className={
         activeDiv === 'log'
-          ? 'w-[480px] regform:px-4 min-h-[408px] rounded-main bg-main-gray text-white p-8 active'
-          : 'w-[464px] h-[408px] rounded-main bg-main-gray text-white p-8'
+          ? 'w-[480px] regform:px-4 min-h-[408px] rounded-main bg-main-gray text-white p-8 active mx-6'
+          : 'w-[464px] h-[408px] rounded-main bg-main-gray text-white p-8 mx-6'
       }
     >
       <form onSubmit={handleLogSubmit}>
